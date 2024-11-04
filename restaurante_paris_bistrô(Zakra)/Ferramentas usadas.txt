@@ -1,0 +1,17 @@
+Tema: Zakra
+Plugins: 
+	elementor,
+	Smash Ballon Social Photo Feed - Plugin simples de feeds sociais(importar feeds do instagram), 
+	social media share(configura os ícones das redes que vão aparecer no site),
+	Five Star Restaurant Reservations - Faz reservas de restaurantes
+		Menus:
+			Basic(Básico) -> Onde é configurado a página de reserva com todas as outras configurações necessárias
+			Agenda de reservas -> Onde é definido o horário de agendamento, exceções(datas comemorativas, feriados, etc...) entre outras configurações
+			Notificações -> Onde é possível fazer confirmação por email
+	All-in-One WP Migration e Backup
+
+
+DETALHE: Este tema pode ser usado para vários tipos de negócios. Além disso é possível importar alguns templates prontos,
+mas para isso deve instalar e ativar o plugin ThemeGrill demo importer.
+
+OBS.: Ao importar o tema Cafe, verifique que à página Home correta a ser configurada é aquela com o slug "sample-page-2"

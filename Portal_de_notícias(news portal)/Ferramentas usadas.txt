@@ -1,0 +1,7 @@
+tema: news portal
+plugins: 
+	elementor -> Criador de páginas
+	forminator -> Criador de formulários customizados
+	(wpforms - opcional) -> achei melhor o plugin de cima)
+	(one click Demo import - opcional) -> Importar dados fictícios
+	All-in-One WP Migration e Backup

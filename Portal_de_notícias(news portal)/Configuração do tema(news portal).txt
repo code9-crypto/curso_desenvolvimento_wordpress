@@ -1,0 +1,35 @@
+General Settings -> Configura o site em geral(cores, ícones, textos etc...)
+	Site Style -> Layout do site: Full Width ou Boxed
+	Sidebars -> Define o layout: Page Sidebars(Páginas), Archive Sidebars(todos os posts numa tela só) e Posts Sidebars(Cada post individualmente)
+	Categories Color -> Define as cores das categorias dos post's
+	Social Icons -> Exibe os ícones das redes sociais, QUANDO O WIDGET NP: SOCIAL MEDIA FOR USADO
+
+
+Header Settings
+	Identidade do site -> Configura Título, Descrição, ícone do site e logo do site
+	Top Header Section -> Habilita/Desabilita no topo da página(data ou Ícones de redes sociais)
+	Header Option -> Habilita/Desabilita: Menu no topo da página, Ícone de home no menu e ícon de pesquisa no menu
+	Ticker Section -> Habilita/Desabilita a opção de novidades
+
+Innerpage Settings
+	Archive Settings -> Define o layout dos post's numa tela só
+	Post Settings -> Habilita/Desabilita opção de post's relacionados, dentro de cada post individual
+
+Footer Settings
+	Widget Area -> Define o layout dos widgets no rodapé
+	Bottom Section -> Apenas permite escrever o "Copyright text"
+
+Menus -> Permite configurar: Top menu(este fica no topo da tela), Primary Menu(este fica na barra principal) e Footer Menu(Rodapé)
+
+Widgets
+	Sidebar -> Permite adicionar itens(widgets) na lateral da página
+	Header Ads -> Permite adicionar itens(widgets) no topo da página(acima da barra de menu)
+	Footer 1 -> Permite adicionar itens(widgets) no rodapé na coluna 1
+	Footer 2 -> Permite adicionar itens(widgets) no rodapé na coluna 2
+	Footer 3 -> Permite adicionar itens(widgets) no rodapé na coluna 3
+	Footer 4 -> Permite adicionar itens(widgets) no rodapé na coluna 4
+	
+Configurações da página inicial -> Configura uma página estática e a página dos blogs
+
+CSS adicinal -> Permite adicionar códigos css personalizaveis
+

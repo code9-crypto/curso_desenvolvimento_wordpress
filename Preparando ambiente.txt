@@ -1,0 +1,6 @@
+1º baixar e instalar a versão do xamp 7.4.4
+
+2º baixar e instalar a versão do wordpress 6.0(de preferência)
+Caso não possível ou apresente algum problema, instalar a versão 5.1.1 e 
+depois instalar o plugin "wp downgrade" para atualizar para a versão 6.0
+(OBS.: Versão 6.6.2 está funcionando muito bem)

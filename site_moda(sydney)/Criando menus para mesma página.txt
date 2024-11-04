@@ -1,0 +1,9 @@
+1º Entre na página Home com o elementor
+2º Clique na seção principal que desejar para ser item do menu
+3º Clique na aba avançado -> no item ID CSS digite id que desejar para esta seção
+4º Volte para aba Menus na tela padrão do wordpress
+5º Em Links personalizados:
+	URL -> digite o ID CSS que foi digitado acima mais o símbolo #. Ex.: #idcss
+	(OBS.: caso tenha outra página no site, então deve ser digitado o caminho completo da página + o ID CSS.
+	Ex.: www.meusite.com.br/#idcss - para que este menu também seja acessível em outra página)
+	Texto do link -> Será o texto que irá aparecer no menu

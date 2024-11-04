@@ -1,0 +1,6 @@
+Tema: sydney
+plugins: 
+	elementor, 
+	forminator, 
+	Gmail SMTP. (White label, opcional para customizar a tela de login do wordpress)
+	All-in-One WP Migration e Backup

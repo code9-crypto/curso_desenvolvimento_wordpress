@@ -1,0 +1,5 @@
+Tema: Sydnei
+Plugins: 
+	Elementor(criar páginas personalizadas),
+	White label(personalizar área de login do wordpress),
+	All-in-one migration WP(exporta/importa o site todo)

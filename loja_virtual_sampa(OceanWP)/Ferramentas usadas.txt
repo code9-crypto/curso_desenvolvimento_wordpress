@@ -1,0 +1,7 @@
+Tema: OceanWP
+Plugins:
+	Elementor,
+	Ocean Extra,
+	WooCommerce,
+	All-in-One WP Migration e Backup
+	

@@ -1,0 +1,9 @@
+Caso não seja possível configurar na tela inicial - Home top section, Home middle section e Home bottom section
+
+1º Entre no menu: aparência -> News Portal Dashboard -> Starter Sites
+2º Se estiver pedindo para instalar o plugin "Mystery Themes Demo Importer" instale-o, para depois importar "News Portal"
+3º Caso não esteja instalado, junto desta importação será necessário os plugins(Elementor, WP Blog Post Layouts, WP Magazine Modules Lite e WPForms Lite)
+4º Tendo feito tudo isso, estará pronto para editar conforme sua necessidade
+
+Apoio para solução
+(https://www.youtube.com/watch?v=KuKt2qoM4lw)

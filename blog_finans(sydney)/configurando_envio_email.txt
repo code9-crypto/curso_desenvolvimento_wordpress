@@ -1,0 +1,15 @@
+1º Instalar plugin: gmail smtp - wordpress
+2º Entrar no link para configurar API: console.cloud.google.com/apis/dashboard
+3º Criar novo projeto
+4º Clicar em credenciais e depois em "configurar tela de consentimento OAuth"
+ 4.1 Configurar itens: Externo(botão criar) -> Nome do app -> Email da aplicação -> Email do desenvolvedor(os mesmos)
+5º Tela seguinte: ADICIONAR OU REMOVER ESCOPOS -> marcar opção ".../auth/userinfo.email" -> clicar em SALVAR E CONTINUAR
+6º tela de usuário de testes, apenas clicar em SALVAR E CONTINUAR
+7º tela seguinte(RESUMO), clicar em VOLTAR PARA O PAINEL
+8º Clicar no botão: PUBLICAR APLICATIVO
+9º Clicar em credenciais
+ 9.1 -> Criar credenciais -> Criar ID do cliente do OAuth(preencher infos)
+10º Após criado, copiar o ID do Cliente e Chave secreta e colocar nos campos de configuração do plugin no wordpress
+11º terminar todas as confs pedidas
+
+

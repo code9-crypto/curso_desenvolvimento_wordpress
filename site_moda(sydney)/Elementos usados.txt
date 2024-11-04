@@ -1,0 +1,4 @@
+Tema: sydney
+plugins: 
+	elementor,
+	All-in-One WP Migration

@@ -1,0 +1,21 @@
+Global
+	Barra lateral -> define o layout das páginas, blogs, Archive(onde mostra dos os post's)
+
+Header & Navigation
+	Header Media -> Configura a Imagem do cabeçalho	
+	Cabeçalho da página -> Configura o layout do menu, estilo de fundo e espaçamento, Título da página se fica Cabeçalho
+
+Header Builder(aqui é possível fazer a configuração e construção do cabeçalho)
+	Site title & logo -> Aqui é possível fazer as configurações do logo e ícone do site
+
+Footer Builder -> faz toda a construção e configuração do rodapé
+	Na Área do Builder(ao lado direito da barra de menu) é apresentada de forma gráfica 3 níveis de footer(Top area, Main area e bottom area), de modo que é possível
+	configurar a quantidade de colunas, o tamanho, as cores, bordas, margin, espaçamentos etc...
+	OBS.: Para que seja possível configurar o que irá dentro da widget(texto, imagem, posts, titulo, etc...), clique nos dois traços que fica entre a engrenagem e o x
+	A engrenagem é o ícone que leva para a tela de estilos da widget
+
+Menus -> onde é configurado a posição(top, main, footer) e os itens que vão aparecer no menu
+
+Widget -> Onde é feito a configuração dos elementos(imagens, textos, posts, galeria, etc...) que vão aparecer, tanto na barra lateral quanto no rodapé;(as vezes até mesmo no cabeçalho)
+(OBS.: Dentro de personalizar do tema, as opções de widgets vão aparecendo conforme cada página do site)
+	
