@@ -2,6 +2,6 @@ Tema: OceanWP
 Plugins:
 	Elementor,
 	Ocean Extra,
-	WooCommerce,
+	WooCommerce(quando instalado, por padrão algumas páginas são criadas),
 	All-in-One WP Migration e Backup
 	

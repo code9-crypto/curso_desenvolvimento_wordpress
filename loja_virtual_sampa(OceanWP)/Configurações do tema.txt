@@ -1,0 +1,24 @@
+OPÇÕES DE PERSONALIZAR DO TEMA
+
+Barra Superior -> Opção de ativar ou desativar barra superior
+
+Cabeçalho -> Onde é possível fazer configurações de cores, bordas, tipos, espaçamentos do cabeçalho
+	Geral > Cores -> Define cores do fundo do cabeçalho e da borda inferior
+	Geral >Tipo de cabeçalho -> Opções de layout do cabeçalho
+	Logo e media -> Alterar imagens de mídia e logo
+		Logo -> Altera a imagem e também o tamanho(altura e largura) da imagem
+	Menus -> Onde é possível personalizar os menus(MAS NÃO CRIA-LOS)
+		Posição do menu -> define como será exibido: ESQUERDA, CENTRO , DIREITA
+		Efeitos do link -> Quando o mouse passa por cima dos links, um efeito aparece
+		Links -> Define cores tanto fixo quanto ao passar o mouse
+		Pesquisa no cabeçalho -> Configura cores e forma de como a pesquisa é mostrada
+
+Tipografia -> Personaliza as fontes para o corpo do texto quanto para os títulos
+
+WooCommerce -> Configura itens a respeito das vendas
+	Menu do carrinho -> Onde é possível fazer a configuração do ícone(imagem) e visibilidade
+	Ícone do menu -> Onde é possível alterar o ícone do carrinho
+		Estilo do ícone do menu -> Onde é possível trocar o ícone, tamanho e posição vertical
+	
+
+Identidade do site -> Onde é definido: título do site, descrição e o ícone
