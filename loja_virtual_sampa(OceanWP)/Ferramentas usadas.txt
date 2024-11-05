@@ -4,4 +4,5 @@ Plugins:
 	Ocean Extra,
 	WooCommerce(quando instalado, por padrão algumas páginas são criadas),
 	All-in-One WP Migration e Backup
+	Bit Assist(opcional) -> manter contato direto com o cliente
 	
