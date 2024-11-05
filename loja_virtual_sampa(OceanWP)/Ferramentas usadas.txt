@@ -5,4 +5,5 @@ Plugins:
 	WooCommerce(quando instalado, por padrão algumas páginas são criadas),
 	All-in-One WP Migration e Backup
 	Bit Assist(opcional) -> manter contato direto com o cliente
+	smart slider 3 -> Para configurar de forma independente os slides(tanto com imagens fixas ou personalizadas)
 	

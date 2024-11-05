@@ -1,0 +1,5 @@
+DESATIVANDO TÍTULO DAS PÁGINAS
+
+Entre em editar na página em questão;
+Clique no ícone "O" ao lado do botão salvar e será aberta uma lista de "Configurações de estilo da página";
+Escolha a opção "Title" e em seguida, na opção "Exibir Título da Página" clique em desativar
