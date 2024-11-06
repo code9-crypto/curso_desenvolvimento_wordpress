@@ -20,7 +20,7 @@ WooCommerce -> Configura itens a respeito das vendas
 	Ícone do menu -> Onde é possível alterar o ícone do carrinho
 		Estilo do ícone do menu -> Onde é possível trocar o ícone, tamanho e posição vertical
 	Arquivos ->
-		> Layout da página de arquivos -> onde é definido o layout de como os produtos serão exibidos
+		> Layout da página de arquivos -> Onde é definido o layout de como os produtos serão exibidos
 	
 
 Identidade do site -> Onde é definido: título do site, descrição e o ícone
