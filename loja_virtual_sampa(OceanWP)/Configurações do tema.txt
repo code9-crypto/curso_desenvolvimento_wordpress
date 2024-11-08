@@ -1,5 +1,10 @@
 OPÇÕES DE PERSONALIZAR DO TEMA
 
+(Editar / Cadastrar um produto novo:
+	Na seção do OceanWP Configurações ->
+		Título(title) -> Esta opção desativa o título da página(essa parte fica abaixo do cabeçalho)
+		Caminho de navegação(Breadcrumbs) -> Esta opção é possível desativar o caminho onde você está localizado
+
 Estilo e configurações do site ->
 	Rolagem para o topo -> Aqui é possível ativar/desativar ou fazer configurações no botão de rolar para cima
 
@@ -28,6 +33,6 @@ WooCommerce -> Configura itens a respeito das vendas
 	Arquivos ->
 		> Layout -> Onde é definido o layout de como os produtos serão exibidos de forma agrupadas	
 	Produto único ->
-		> Layout -> Onde define o layout da exibição dos produtos de forma individual
+		> Layout -> Onde define o layout da exibição dos produtos de forma individual	
 
 Identidade do site -> Onde é definido: título do site, descrição e o ícone
