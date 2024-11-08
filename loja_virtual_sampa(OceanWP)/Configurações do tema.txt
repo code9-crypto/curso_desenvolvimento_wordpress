@@ -1,5 +1,11 @@
 OPÇÕES DE PERSONALIZAR DO TEMA
 
+Estilo e configurações do site ->
+	Rolagem para o topo -> Aqui é possível ativar/desativar ou fazer configurações no botão de rolar para cima
+
+Páginas e páginas especiais ->
+	> Layout da página -> Onde define o layout de todas as páginas(exceto a de produtos/loja)
+
 Barra Superior -> Opção de ativar ou desativar barra superior
 
 Cabeçalho -> Onde é possível fazer configurações de cores, bordas, tipos, espaçamentos do cabeçalho
@@ -20,7 +26,8 @@ WooCommerce -> Configura itens a respeito das vendas
 	Ícone do menu -> Onde é possível alterar o ícone do carrinho
 		Estilo do ícone do menu -> Onde é possível trocar o ícone, tamanho e posição vertical
 	Arquivos ->
-		> Layout da página de arquivos -> Onde é definido o layout de como os produtos serão exibidos
-	
+		> Layout -> Onde é definido o layout de como os produtos serão exibidos de forma agrupadas	
+	Produto único ->
+		> Layout -> Onde define o layout da exibição dos produtos de forma individual
 
 Identidade do site -> Onde é definido: título do site, descrição e o ícone
