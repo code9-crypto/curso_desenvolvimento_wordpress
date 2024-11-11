@@ -5,6 +5,8 @@ OPÇÕES DE PERSONALIZAR DO TEMA
 		Título(title) -> Esta opção desativa o título da página(essa parte fica abaixo do cabeçalho)
 		Caminho de navegação(Breadcrumbs) -> Esta opção é possível desativar o caminho onde você está localizado
 
+Tipografia -> Personaliza as fontes para o corpo do texto quanto para os títulos
+
 Estilo e configurações do site ->
 	Rolagem para o topo -> Aqui é possível ativar/desativar ou fazer configurações no botão de rolar para cima
 
@@ -24,9 +26,12 @@ Cabeçalho -> Onde é possível fazer configurações de cores, bordas, tipos, e
 		Links -> Define cores tanto fixo quanto ao passar o mouse
 		Pesquisa no cabeçalho -> Configura cores e forma de como a pesquisa é mostrada
 
-Tipografia -> Personaliza as fontes para o corpo do texto quanto para os títulos
+Widgets do rodapé -> Onde é possível fazer configuração da quantidade de colunas, espaçamentos, cores ...
 
-WooCommerce -> Configura itens a respeito das vendas
+Direitos autorais no rodapé -> Onde é possível fazer configuração de espaçamentos, alterar o texto dos direitos autoriais...
+
+
+WooCommerce -> Configura itens a respeito das vendas(loja, minha conta, página de pagamento...)
 	Menu do carrinho -> Onde é possível fazer a configuração do ícone(imagem) e visibilidade
 	Ícone do menu -> Onde é possível alterar o ícone do carrinho
 		Estilo do ícone do menu -> Onde é possível trocar o ícone, tamanho e posição vertical
@@ -35,4 +40,8 @@ WooCommerce -> Configura itens a respeito das vendas
 	Produto único ->
 		> Layout -> Onde define o layout da exibição dos produtos de forma individual	
 
+(ESTES ITENS POR PADRÃO ESTÃO NA MAIORIA DOS TEMAS)
 Identidade do site -> Onde é definido: título do site, descrição e o ícone
+Menus -> Configura os menus
+Widgets -> Configura os widgets, de acordo com cada página(lateral, rodapé etc...)
+Configuração da página inicial -> onde é configurado a página inicial e a página de blog
