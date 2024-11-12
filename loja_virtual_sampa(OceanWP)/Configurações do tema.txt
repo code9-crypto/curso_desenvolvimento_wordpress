@@ -32,6 +32,7 @@ Direitos autorais no rodapé -> Onde é possível fazer configuração de espaç
 
 
 WooCommerce -> Configura itens a respeito das vendas(loja, minha conta, página de pagamento...)
+	Geral -> Onde é possível ativar/desativar a barra lateral do woocommerce e fazer mais alguns ajustes
 	Menu do carrinho -> Onde é possível fazer a configuração do ícone(imagem) e visibilidade
 	Ícone do menu -> Onde é possível alterar o ícone do carrinho
 		Estilo do ícone do menu -> Onde é possível trocar o ícone, tamanho e posição vertical
