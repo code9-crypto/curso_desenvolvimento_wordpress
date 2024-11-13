@@ -1,7 +1,7 @@
 General Settings -> Configura o site em geral(cores, ícones, textos etc...)
 	Site Style -> Layout do site: Full Width ou Boxed
 	Sidebars -> Define o layout: Page Sidebars(Páginas), Archive Sidebars(todos os posts numa tela só) e Posts Sidebars(Cada post individualmente)
-	Categories Color -> Define as cores das categorias dos post's
+	Categories Color -> Define as cores das categorias dos post's e base colors
 	Social Icons -> Exibe os ícones das redes sociais, QUANDO O WIDGET NP: SOCIAL MEDIA FOR USADO
 
 

@@ -37,9 +37,18 @@ WooCommerce -> Configura itens a respeito das vendas(loja, minha conta, página 
 	Ícone do menu -> Onde é possível alterar o ícone do carrinho
 		Estilo do ícone do menu -> Onde é possível trocar o ícone, tamanho e posição vertical
 	Arquivos ->
-		> Layout -> Onde é definido o layout de como os produtos serão exibidos de forma agrupadas	
+		> Opções de exibição -> Onde pode definir o que exibir na página de loja e escolher a ordenação dos produtos
+		> Layout -> Onde é definido o layout de como os produtos serão exibidos de forma agrupadas(Página loja)
+		> Opções de produtos -> Onde define a visualização do catálogo, produtos por página(se houver paginação) e a quantidade de colunas
+		> Opções de exibição do produto -> Onde é possível escolher como slider de galeria, imagem destacada ou trocar imagens
+		> Paginação -> Escolher entre Padrão(exibe paginação) e Rolagem infinita(não tem página, fica tudo numa página só)
 	Produto único ->
 		> Layout -> Onde define o layout da exibição dos produtos de forma individual	
+		> Imagem do produto único -> Onde pode mexer no tamanho da imagem e no layout das miniaturas
+		> Adicionar produto único ao carrinho -> ativar/desativar a função de ajax e o estilo do botão
+		> Opções adicionais do produto único -> Defini a parte das abas, barra flutuante e iten relacionados
+	Imagens do produto -> É possível configurar como a imagem é apresentada em Recorte da miniatura: 1:1, Personalizado ou Não cortado
+	Opções adicionais -> Alterar cores de fundo da oferta, cor das estrelas, Ofertas(cores) ...
 
 (ESTES ITENS POR PADRÃO ESTÃO NA MAIORIA DOS TEMAS)
 Identidade do site -> Onde é definido: título do site, descrição e o ícone
