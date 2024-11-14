@@ -24,6 +24,10 @@ Menus -> Permite configurar: Top menu(este fica no topo da tela), Primary Menu(e
 Widgets
 	Sidebar -> Permite adicionar itens(widgets) na lateral da página
 	Header Ads -> Permite adicionar itens(widgets) no topo da página(acima da barra de menu)
+	Home Top Section -> Essa parte onde fica, normalmente, os destaques das notícias
+	Home Middle Section -> Layout da parte do meio da página(pode escolher laytous diferentes de exibição)
+	Home Middle Aside -> Este layout fica ao lado do "Home Middle Section", normalmente para notícias recentes
+	Home Bottom Section -> Esta é a parte do layout de fica embaixo, porém pouco usada(normalmente usamos mais o footer)
 	Footer 1 -> Permite adicionar itens(widgets) no rodapé na coluna 1
 	Footer 2 -> Permite adicionar itens(widgets) no rodapé na coluna 2
 	Footer 3 -> Permite adicionar itens(widgets) no rodapé na coluna 3
