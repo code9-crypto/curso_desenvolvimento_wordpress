@@ -26,7 +26,7 @@ Cabeçalho -> Onde é possível fazer configurações de cores, bordas, tipos, e
 		Links -> Define cores tanto fixo quanto ao passar o mouse
 		Pesquisa no cabeçalho -> Configura cores e forma de como a pesquisa é mostrada
 
-Widgets do rodapé -> Onde é possível fazer configuração da quantidade de colunas, espaçamentos, cores ...
+Widgets do rodapé -> Onde é possível fazer configuração(personalização apenas) da quantidade de colunas, espaçamentos, cores ...
 
 Direitos autorais no rodapé -> Onde é possível fazer configuração de espaçamentos, alterar o texto dos direitos autoriais...
 
@@ -53,5 +53,5 @@ WooCommerce -> Configura itens a respeito das vendas(loja, minha conta, página 
 (ESTES ITENS POR PADRÃO ESTÃO NA MAIORIA DOS TEMAS)
 Identidade do site -> Onde é definido: título do site, descrição e o ícone
 Menus -> Configura os menus
-Widgets -> Configura os widgets, de acordo com cada página(lateral, rodapé etc...)
+Widgets -> Adicionar/Excluir/Configurar os widgets, de acordo com cada página(lateral, rodapé etc...)
 Configuração da página inicial -> onde é configurado a página inicial e a página de blog

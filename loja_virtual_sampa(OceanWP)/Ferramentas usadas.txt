@@ -6,5 +6,19 @@ Plugins:
 	All-in-One WP Migration e Backup
 	Bit Assist(opcional) -> manter contato direto com o cliente
 	smart slider 3 -> Para configurar de forma independente os slides(tanto com imagens fixas ou personalizadas),
-	Claudio Sanches – Correios para WooCommerce -> plugin para fazer cálculo do frete dos produtos
-	
+	{
+		**ESSES DOIS PLUGINS, SÓ FUNCIONARÃO COM API DOS CORREIOS, A QUAL É ADQUIRIDA CRIANDO UMA CONTA COM CNPJ**
+		Claudio Sanches – Correios para WooCommerce -> plugin para fazer cálculo do frete dos produtos
+		WooCommerce Correios – Cálculo de Frete na Página do Produto-> plugin para fazer o cálculo do frete, na própria página do produto
+	}
+	{
+		**ESSES PLUGINS SÓ FUNCIONARÃO CASO TENHA UMA CONTA CADASTRADA NO RESPECTIVO SITE**
+		WooCommerce PayPal Payments
+		Claudio Sanches – PagSeguro para WooCommerce
+	}
+	Brazilian Market on WooCommerce -> Adiciona campos de checkout para brasileiros no WooCommerce
+	PayPal Brasil para WooCommerce -> Página de checkout transparente paypal
+	(	
+	Opcional - Virtuaria Correios - Frete, etiqueta e Rastreio
+	Opcional - PagBank / PagSeguro Connect para WooCommerce -> Pagamento no boleto, cartão de crédito e PIX)
+	)
