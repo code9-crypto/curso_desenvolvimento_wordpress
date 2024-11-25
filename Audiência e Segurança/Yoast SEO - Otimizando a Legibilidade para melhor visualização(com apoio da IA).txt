@@ -1,0 +1,17 @@
+PASSO A PASSO PARA DEIXAR O TEXTO MAIS ADEQUADO PARA SER VISUALZIADO
+(com apoio do chatGPT ou www.blackbox.ai)
+
+1º DEFINA O TEXTO COM OS SEGUINTES CRITÉRIOS
+refaça este texto com as seguintes recomendações: 
+manter na voz ativa,
+frases consecutivas,
+subtítulos, 
+tamanho de paragráfos,
+tamanhos de frases e 
+palavras em transição
+
+2º COM O RESULTADO OBTIDO, REFINE MAIS ASSIM
+mantenha este texto, porém com mais palavras em transição
+
+3º COM MAIS ESTE RESULTADO OBTIDO, REFINE NOVAMENTE DESTE JEITO
+mantenha este texto, mas com mais frases na voz ativa

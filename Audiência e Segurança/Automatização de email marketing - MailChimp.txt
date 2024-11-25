@@ -1,0 +1,5 @@
+Login: mrx7594@gmail.com
+senha: Em41lchimp#
+
+IMPORTANTE: Após a configuração no mailchimp, será necessário copiar o código gerado e entrar em "editor de tema" no wordpress.
+Dentro do arquivo "header.php", cole no final do arquivo antes de </body>

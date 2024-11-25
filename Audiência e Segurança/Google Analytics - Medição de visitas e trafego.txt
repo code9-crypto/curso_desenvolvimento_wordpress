@@ -1,0 +1,13 @@
+1º Entre com a conta do gmail e depois clique no botão "configurar" em "Google Analytics";
+(Na primeira tela, preencha o nome da conta e marque todas as opções)
+
+2º Próxima tela: Criação de propriedade(fuso horário e nome da propriedade)
+
+3º Próxima tela: Detalhes comerciais(tamanho da empresa e setor de mercado)
+
+4º Próxima tela: Objetivos de negócios(aqui onde é criado o tráfego)
+
+5º Próxima tela: Coleta de dados(a plataforma: web, app Android ou App IOS)
+(um modal será aberto para cadastrar o site e o nome do fluxo)
+
+Plugin instalado: MonsterInsights
