@@ -9,6 +9,8 @@ Tipografia -> Personaliza as fontes para o corpo do texto quanto para os título
 
 Estilo e configurações do site ->
 	Rolagem para o topo -> Aqui é possível ativar/desativar ou fazer configurações no botão de rolar para cima
+	Título da pagina -> Onde é possível ativar/desativar e fazer algumas outras configurações
+	Caminhos de navegação (breadcrumb) -> Onde é possível ativar/desativar e fazer algumas outras configurações
 
 Páginas e páginas especiais ->
 	> Layout da página -> Onde define o layout de todas as páginas(exceto a de produtos/loja)
