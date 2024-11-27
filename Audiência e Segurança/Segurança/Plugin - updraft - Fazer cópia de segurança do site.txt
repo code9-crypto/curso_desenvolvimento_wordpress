@@ -1,0 +1,3 @@
+ABAS >
+	Backup/Restauração -> Bem intuítiva a interface e simples de fazer o backup
+	Configurações -> É possível fazer um agendamento de quanto em quanto tempo fazer o backup e também quantas cópias quer manter

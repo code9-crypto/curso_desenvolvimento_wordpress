@@ -1,0 +1,7 @@
+Este plugin faz a migração do site de um lugar para outro de forma bem simples
+Menus > 
+	Backups -> onde será feito o novo backup(tudo será feito em 3 etapas bem intuitivas)
+
+(OBS.: NÃO PRECISA TER O WORDPRESS INSTALADO PARA PROSSEGUIR COM A MIGRAÇÃO DO SITE)
+Na hora de fazer o backup, jogue os arquivos dentro da pasta public/htdocs/www e depois na URL acesse o arquivo installer.php,
+de forma bem intuítiva pedirá alguns ajustes(como o banco de dados) e depois clique em next para iniciar o processo de instalção.
