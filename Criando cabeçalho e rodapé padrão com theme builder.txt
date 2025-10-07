@@ -1,0 +1,42 @@
+✅ 1. Use o Theme Builder (Construtor de Tema)
+🧭 Caminho:
+
+No painel WordPress →
+Modelos (Templates) → Theme Builder (ou Construtor de Tema)
+
+Se você estiver no Elementor atual:
+Elementor → Theme Builder
+ou Elementor → Modelos → Adicionar novo
+
+
+✅ 2. Crie o Header (cabeçalho) padrão
+
+Clique em “Header” ou “Adicionar Novo” → Tipo: Header
+
+Escolha um modelo pronto ou crie do zero no Elementor.
+
+Após editar e salvar, clique em Publicar.
+
+Vai abrir uma janela de Condições de Exibição (Display Conditions):
+
+Escolha “Incluir → Todo o Site (Entire Site)”
+
+Clique em Salvar e Fechar ✅
+
+Agora esse header aparece em todas as páginas.
+
+
+
+✅ 3. Crie o Footer (rodapé) padrão
+
+Faça o mesmo: Adicionar Novo → Tipo: Footer
+
+Edite seu rodapé no Elementor
+
+Ao publicar:
+
+Condição: “Incluir → Todo o Site”
+
+Salve ✅
+
+Pronto! O footer também fica fixo e automático em todas as páginas.
